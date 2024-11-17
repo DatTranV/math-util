@@ -12,17 +12,17 @@ namespace MathUtilsUnitTests
         {
             MathLib lib = new MathLib();
             int result = lib.Add(1, 2);
-            int expected = -1;
+            int expected = 3;
 
             Assert.That(result, Is.EqualTo(expected));
         }
         [Test]
-     
+
         public void Add_WhenGivenNegativeTwoNumbers_ReturnSum()
         {
             MathLib lib = new MathLib();
             int result = lib.Subtract(1, 2);
-            int expected = 3;
+            int expected = -1;
 
             Assert.That(result, Is.EqualTo(expected));
         }

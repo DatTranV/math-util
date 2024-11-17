@@ -286,3 +286,4 @@ D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\obj\Debug\
 D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\obj\Debug\net8.0\MathUtilsUnitTests.pdb
 D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\obj\Debug\net8.0\MathUtilsUnitTests.genruntimeconfig.cache
 D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\obj\Debug\net8.0\ref\MathUtilsUnitTests.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\obj\Debug\net8.0\MathUtilsUnitTests.sourcelink.json
