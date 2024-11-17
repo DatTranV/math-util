@@ -10,7 +10,7 @@ namespace MathUtilsUnitTests
         public void SetUp()
         {
             //connection String
-            string connectionString = "Server=(Local);Database=MyDatabase;User Id=user;Password=***;TrustServerCertificate=True;";
+            string connectionString = "Server=DESKTOP-OF4115M\\MSSQLSERVER01;Database=MyStore;User Id=sa;Password=12345;TrustServerCertificate=True;";
 
             dbConn = new SqlConnection(connectionString);
             dbConn.Open();
