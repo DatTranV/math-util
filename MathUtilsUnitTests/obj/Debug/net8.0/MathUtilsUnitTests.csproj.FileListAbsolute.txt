@@ -1,0 +1,288 @@
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\CoverletSourceRootsMapping_MathUtilsUnitTests
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\testhost.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\MathUtils.deps.json
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\MathUtils.runtimeconfig.json
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\MathUtils.exe
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\testhost.exe
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\NUnit3.TestAdapter.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\nunit.engine.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\nunit.engine.api.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\nunit.engine.core.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\testcentric.engine.metadata.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\MathUtilsUnitTests.deps.json
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\MathUtilsUnitTests.runtimeconfig.json
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\MathUtilsUnitTests.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\MathUtilsUnitTests.pdb
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\nunit.framework.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\MathUtils.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\MathUtils.pdb
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\obj\Debug\net8.0\MathUtilsUnitTests.csproj.AssemblyReference.cache
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\obj\Debug\net8.0\MathUtilsUnitTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\obj\Debug\net8.0\MathUtilsUnitTests.AssemblyInfoInputs.cache
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\obj\Debug\net8.0\MathUtilsUnitTests.AssemblyInfo.cs
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\obj\Debug\net8.0\MathUtilsUnitTests.csproj.CoreCompileInputs.cache
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\obj\Debug\net8.0\MathUtil.0F3B2ECB.Up2Date
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\obj\Debug\net8.0\MathUtilsUnitTests.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\obj\Debug\net8.0\refint\MathUtilsUnitTests.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\obj\Debug\net8.0\MathUtilsUnitTests.pdb
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\obj\Debug\net8.0\MathUtilsUnitTests.genruntimeconfig.cache
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\obj\Debug\net8.0\ref\MathUtilsUnitTests.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\a\Desktop\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\CoverletSourceRootsMapping_MathUtilsUnitTests
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\testhost.exe
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\testhost.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\NUnit3.TestAdapter.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\nunit.engine.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\nunit.engine.api.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\nunit.engine.core.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\testcentric.engine.metadata.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\MathUtils.deps.json
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\MathUtils.runtimeconfig.json
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\MathUtils.exe
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\MathUtilsUnitTests.deps.json
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\MathUtilsUnitTests.runtimeconfig.json
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\MathUtilsUnitTests.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\MathUtilsUnitTests.pdb
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\Azure.Core.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\Azure.Identity.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\nunit.framework.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\System.ClientModel.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\System.Memory.Data.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\MathUtils.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\bin\Debug\net8.0\MathUtils.pdb
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\obj\Debug\net8.0\MathUtilsUnitTests.csproj.AssemblyReference.cache
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\obj\Debug\net8.0\MathUtilsUnitTests.GeneratedMSBuildEditorConfig.editorconfig
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\obj\Debug\net8.0\MathUtilsUnitTests.AssemblyInfoInputs.cache
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\obj\Debug\net8.0\MathUtilsUnitTests.AssemblyInfo.cs
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\obj\Debug\net8.0\MathUtilsUnitTests.csproj.CoreCompileInputs.cache
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\obj\Debug\net8.0\MathUtil.0F3B2ECB.Up2Date
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\obj\Debug\net8.0\MathUtilsUnitTests.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\obj\Debug\net8.0\refint\MathUtilsUnitTests.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\obj\Debug\net8.0\MathUtilsUnitTests.pdb
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\obj\Debug\net8.0\MathUtilsUnitTests.genruntimeconfig.cache
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtilsUnitTests\obj\Debug\net8.0\ref\MathUtilsUnitTests.dll

@@ -1,0 +1,28 @@
+C:\Users\a\Desktop\MathUtils\MathUtils\bin\Debug\net8.0\MathUtils.exe
+C:\Users\a\Desktop\MathUtils\MathUtils\bin\Debug\net8.0\MathUtils.deps.json
+C:\Users\a\Desktop\MathUtils\MathUtils\bin\Debug\net8.0\MathUtils.runtimeconfig.json
+C:\Users\a\Desktop\MathUtils\MathUtils\bin\Debug\net8.0\MathUtils.dll
+C:\Users\a\Desktop\MathUtils\MathUtils\bin\Debug\net8.0\MathUtils.pdb
+C:\Users\a\Desktop\MathUtils\MathUtils\obj\Debug\net8.0\MathUtils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a\Desktop\MathUtils\MathUtils\obj\Debug\net8.0\MathUtils.AssemblyInfoInputs.cache
+C:\Users\a\Desktop\MathUtils\MathUtils\obj\Debug\net8.0\MathUtils.AssemblyInfo.cs
+C:\Users\a\Desktop\MathUtils\MathUtils\obj\Debug\net8.0\MathUtils.csproj.CoreCompileInputs.cache
+C:\Users\a\Desktop\MathUtils\MathUtils\obj\Debug\net8.0\MathUtils.dll
+C:\Users\a\Desktop\MathUtils\MathUtils\obj\Debug\net8.0\refint\MathUtils.dll
+C:\Users\a\Desktop\MathUtils\MathUtils\obj\Debug\net8.0\MathUtils.pdb
+C:\Users\a\Desktop\MathUtils\MathUtils\obj\Debug\net8.0\MathUtils.genruntimeconfig.cache
+C:\Users\a\Desktop\MathUtils\MathUtils\obj\Debug\net8.0\ref\MathUtils.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtils\bin\Debug\net8.0\MathUtils.exe
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtils\bin\Debug\net8.0\MathUtils.deps.json
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtils\bin\Debug\net8.0\MathUtils.runtimeconfig.json
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtils\bin\Debug\net8.0\MathUtils.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtils\bin\Debug\net8.0\MathUtils.pdb
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtils\obj\Debug\net8.0\MathUtils.GeneratedMSBuildEditorConfig.editorconfig
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtils\obj\Debug\net8.0\MathUtils.AssemblyInfoInputs.cache
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtils\obj\Debug\net8.0\MathUtils.AssemblyInfo.cs
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtils\obj\Debug\net8.0\MathUtils.csproj.CoreCompileInputs.cache
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtils\obj\Debug\net8.0\MathUtils.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtils\obj\Debug\net8.0\refint\MathUtils.dll
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtils\obj\Debug\net8.0\MathUtils.pdb
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtils\obj\Debug\net8.0\MathUtils.genruntimeconfig.cache
+D:\tai lieu cac ky\tai lieu ky 5\testing\MathUtils\MathUtils\obj\Debug\net8.0\ref\MathUtils.dll
